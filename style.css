@@ -1,0 +1,21 @@
+.pg-sec{
+    padding-top: 10rem;
+    /* background: url(image/bg-curve-desktop.svg);
+    background-repeat: no-repeat; */
+}
+.nt{
+    color: green;
+}
+.imgs{
+    border-radius: 10rem;
+    width: 3rem;
+}
+.thirdsec{
+    background-color:hsl(238, 22%, 44%)
+}
+.last{
+    background-color: brown;
+}
+.ui{
+    background-color: rgb(54, 42, 165);
+}
